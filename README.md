@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sumedha 👋
 
-<!--
-**sumedha25mim10095-bit/sumedha25mim10095-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 1st Year of Integrated M.Tech.
+ VIT Bhopal University
 
-Here are some ideas to get you started:
+ ## About me 
+ I am a first year Integrated M.Tech. student and I am very much interested in learning new technologies.I am currently exploring different platforms and languages
+ to build a strong academic and professional foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Interests
+ Programming
+ Learning new languages(python, c++)
+ Learning new digital tools
+
+ ## Skills(Beginner)
+ Digital tools(canva,google workspace)
+ GitHub fundamentals
+ 
+
+
+
